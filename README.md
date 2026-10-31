@@ -16,7 +16,7 @@ Meeting every requirement doesn't guarantee a place on the team. We also look at
 
 Every issue opened in this repository counts as an application. Issues that don't use the form are closed without review.
 
-Questions before you apply? Ask in Telegram: [OnePlus 13 group](https://t.me/OP13CustomRoms/3) or [OnePlus 11 group](https://t.me/OnePlus11CustomRoms/7739).
+Questions before you apply? Ask in the [Resurrected Remix Telegram group](https://t.me/+qLz0jQ_ERZRlM2Ux).
 
 ## Official devices
 
