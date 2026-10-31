@@ -1,0 +1,85 @@
+name: Maintainer application
+description: Apply to maintain a device for Resurrected Remix
+title: "Maintainer application: "
+labels: ["application"]
+assignees: ["osm1019"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for wanting to join. Before you start, read the [maintainer requirements](https://github.com/ResurrectedRemix-Devices/official_devices/blob/main/docs/maintainer-requirements.md) and the [device requirements](https://github.com/ResurrectedRemix-Devices/official_devices/blob/main/docs/device-requirements.md). Add your device to the title above.
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: Name and codename.
+      placeholder: OnePlus 12 (waffle)
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Device sources
+      description: Device tree, common trees, kernel and vendor repos. One URL per line.
+      placeholder: |
+        https://github.com/you/android_device_oneplus_waffle
+        https://github.com/you/android_kernel_oneplus_sm8650
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Your unofficial Resurrected Remix build
+      description: A public link to the release post, for example on Telegram or XDA.
+    validations:
+      required: true
+  - type: textarea
+    id: roms
+    attributes:
+      label: ROMs you maintain now
+      description: Name each one and say whether it's official or unofficial.
+    validations:
+      required: true
+  - type: textarea
+    id: broken
+    attributes:
+      label: What doesn't work yet
+      description: Anything broken or missing on your build. Write "Nothing" if everything works.
+    validations:
+      required: true
+  - type: textarea
+    id: exceptions
+    attributes:
+      label: Exceptions
+      description: Device requirements you can't meet, and why.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I own this device and test every build on it myself.
+          required: true
+        - label: My build is SELinux enforcing.
+          required: true
+        - label: My sources, kernel included, are public, and every commit keeps its original author.
+          required: true
+        - label: I have read the maintainer and device requirements.
+          required: true
+  - type: input
+    id: telegram
+    attributes:
+      label: Telegram username
+      placeholder: "@yourname"
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub username
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Experience, past ROM work, or anything we should know.
