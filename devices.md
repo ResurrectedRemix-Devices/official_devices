@@ -9,6 +9,8 @@ Resurrected Remix 17.0 (Android 17, built on LineageOS 24).
 | OnePlus 13 | `dodge` | [OscarM1019](https://github.com/osm1019) |
 | OnePlus 11 | `salami` | [OscarM1019](https://github.com/osm1019) |
 | OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) |
+| OnePlus 13R | `giulia` | [franlop77](https://github.com/chuspita) |
+| OnePlus Ace 5 | `giuliac` | [franlop77](https://github.com/chuspita) |
 
 ## Xiaomi
 
