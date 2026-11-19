@@ -17,6 +17,8 @@ Resurrected Remix 17.0 (Android 17, built on LineageOS 24).
 | Device | Codename | Maintainer |
 |---|---|---|
 | POCO F8 Ultra / Redmi K90 Pro Max | `myron` | [Kill3rEz](https://github.com/Kill3rEz) |
+| Redmi Note 10 Pro | `sweet` | [stahed](https://github.com/sm6150-dreams) |
+| POCO F7 | `onyx` | [jonhlcsgm](https://github.com/jonhlcsgm) |
 
 ## Google
 
