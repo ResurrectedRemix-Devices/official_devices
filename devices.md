@@ -26,4 +26,10 @@ Resurrected Remix 17.0 (Android 17, built on LineageOS 24).
 |---|---|---|
 | Pixel 9a | `tegu` | [OscarM1019](https://github.com/osm1019) |
 
+## Nothing
+
+| Device | Codename | Maintainer |
+|---|---|---|
+| Nothing Phone (3a) / (3a) Pro | `asteroids` | [Aniket](https://github.com/Ani4k) |
+
 Downloads: [resurrectedremix.com](https://resurrectedremix.com/#devices)
