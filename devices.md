@@ -33,4 +33,10 @@ Resurrected Remix 17.0 (Android 17, built on LineageOS 24).
 |---|---|---|
 | Nothing Phone (3a) / (3a) Pro | `asteroids` | [Aniket](https://github.com/Ani4k) |
 
+## Motorola
+
+| Device | Codename | Maintainer |
+|---|---|---|
+| Motorola G82 5G | `rhodep` | [Akky](https://github.com/Akkyhere) |
+
 Downloads: [resurrectedremix.com](https://resurrectedremix.com/#devices)
